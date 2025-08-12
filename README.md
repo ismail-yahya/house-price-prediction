@@ -40,15 +40,11 @@ The project follows these main steps:
 6. **Model Training & Evaluation**
 
    - Tested multiple models:
-     - **Linear Regression** → RMSE CV: `0.1243`
-     - **Decision Tree** → RMSE CV: `0.1999`
-     - **Random Forest** → RMSE CV: **`0.1319`**
-     - **XGBoost** → RMSE CV: `0.1322`
-   - Best performance achieved with **Random Forest**.
-
-7. **Final Results**
-   - XGBoost model RMSE on validation: **`0.1306`**
-   - Submission file generated for Kaggle competition.
+     - **Linear Regression** → RMSE CV: `0.12122`
+     - **Decision Tree** → RMSE CV: `0.19599`
+     - **Random Forest** → RMSE CV: **`0.13406`**
+     - **XGBoost** → RMSE CV: `0.13279`
+   - Best performance achieved with **XGBoost**.
 
 ---
 
