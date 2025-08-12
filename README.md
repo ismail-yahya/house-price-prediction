@@ -47,7 +47,7 @@ The project follows these main steps:
    - Best performance achieved with **Random Forest**.
 
 7. **Final Results**
-   - Random Forest model RMSE on validation: **`0.1306`**
+   - XGBoost model RMSE on validation: **`0.1306`**
    - Submission file generated for Kaggle competition.
 
 ---
@@ -65,13 +65,13 @@ The project follows these main steps:
 
 ## 📈 Results
 
-- **Best Model:** Random Forest Regressor
-- **Validation RMSE:** `0.1306`
-- **Kaggle Public Score:** `0.14189`
+- **Best Model:** XGBoost
+- **Validation RMSE:** `0.12158`
+- **Kaggle Public Score:** `0.12637`
 
 ---
 
 ## 📂 Dataset
 
-The dataset is available on Kaggle:  
-🔗 **[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)**
+The dataset used in this project can be accessed here:  
+🔗 **[House Prices - Advanced Regression Techniques on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)**
